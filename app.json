@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "magicLink",
+    "slug": "magicLink",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
